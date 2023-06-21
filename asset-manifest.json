@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.2659775f.css",
+    "main.js": "/my_portfolio/static/js/main.5a5a3495.js",
+    "static/media/anime_explorer.png": "/my_portfolio/static/media/anime_explorer.b4cd21c0cfa7470bf7bf.png",
+    "static/media/coding_quiz.png": "/my_portfolio/static/media/coding_quiz.4ccd7b056afcdd6d0893.png",
+    "static/media/fa-solid-900.ttf": "/my_portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/work_day_scheduler.png": "/my_portfolio/static/media/work_day_scheduler.cd39b94b3fa59c3731db.png",
+    "static/media/profilepic.JPG": "/my_portfolio/static/media/profilepic.f5260402f332da1e2860.JPG",
+    "static/media/fa-brands-400.ttf": "/my_portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/my_portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/todo.png": "/my_portfolio/static/media/todo.7bc844e231f67b1f376c.png",
+    "static/media/fa-brands-400.woff2": "/my_portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/weather_dashboard.png": "/my_portfolio/static/media/weather_dashboard.993f59d0e9220cec055c.png",
+    "static/media/fa-regular-400.ttf": "/my_portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/travisprestonresume.pdf": "/my_portfolio/static/media/travisprestonresume.58446f20e2a3678f0532.pdf",
+    "static/media/password_generator.png": "/my_portfolio/static/media/password_generator.9284cc8a8ff9777f644a.png",
+    "static/media/fa-regular-400.woff2": "/my_portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/my_portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/my_portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/my_portfolio/index.html",
+    "main.2659775f.css.map": "/my_portfolio/static/css/main.2659775f.css.map",
+    "main.5a5a3495.js.map": "/my_portfolio/static/js/main.5a5a3495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2659775f.css",
+    "static/js/main.5a5a3495.js"
+  ]
+}
