@@ -29,7 +29,7 @@
   ## Additional Info:
   - Github: [prestontravis](https://github.com/prestontravis)
   - Email: travisprestonofficial@gmail.com
-  - Deployed App: https://prestontravis.github.io/portfolio_v2/
+  - Deployed App: https://prestontravis.github.io/my_portfolio/
   ## Questions:
   Contact me [here](mailto:travisprestonofficial@gmail.com)
 
