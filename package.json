@@ -1,7 +1,7 @@
 {
-  "name": "developr-portfolio",
+  "name": "my_portfolio",
   "version": "0.1.0",
-  "homepage": "https://prestontravis.github.io/portfolio_v2/",
+  "homepage": "https://prestontravis.github.io/my_portfolio/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
