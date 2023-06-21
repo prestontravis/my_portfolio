@@ -17,8 +17,8 @@
   ## Installation:
   Clone repository to local computer, run "npm i" in integrated terminal, then "run npm start" in integrated terminal finally.
   ## Usage:
-  [Video](A portfolio for other to view)
-
+  ![Screenshot 2023-06-20 at 10 50 37 PM](https://github.com/prestontravis/my_portfolio/assets/119766277/5f67a965-481f-416e-ab1a-b356f274086f)
+  ![Screenshot 2023-06-20 at 10 50 49 PM](https://github.com/prestontravis/my_portfolio/assets/119766277/5fdb284a-89a5-4fad-ab7d-d9c3183222ed)
   ## License
     This application is covered by the MIT license.
 
