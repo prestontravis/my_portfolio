@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio_v2/static/css/main.d48b6c35.css",
+    "main.js": "/portfolio_v2/static/js/main.dfb43d8e.js",
+    "static/media/anime_explorer.png": "/portfolio_v2/static/media/anime_explorer.b4cd21c0cfa7470bf7bf.png",
+    "static/media/coding_quiz.png": "/portfolio_v2/static/media/coding_quiz.4ccd7b056afcdd6d0893.png",
+    "static/media/fa-solid-900.ttf": "/portfolio_v2/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/work_day_scheduler.png": "/portfolio_v2/static/media/work_day_scheduler.cd39b94b3fa59c3731db.png",
+    "static/media/profilepic.JPG": "/portfolio_v2/static/media/profilepic.f5260402f332da1e2860.JPG",
+    "static/media/fa-brands-400.ttf": "/portfolio_v2/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio_v2/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/todo.png": "/portfolio_v2/static/media/todo.7bc844e231f67b1f376c.png",
+    "static/media/fa-brands-400.woff2": "/portfolio_v2/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/weather_dashboard.png": "/portfolio_v2/static/media/weather_dashboard.993f59d0e9220cec055c.png",
+    "static/media/fa-regular-400.ttf": "/portfolio_v2/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/travisprestonresume.pdf": "/portfolio_v2/static/media/travisprestonresume.58446f20e2a3678f0532.pdf",
+    "static/media/password_generator.png": "/portfolio_v2/static/media/password_generator.9284cc8a8ff9777f644a.png",
+    "static/media/fa-regular-400.woff2": "/portfolio_v2/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/portfolio_v2/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio_v2/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/portfolio_v2/index.html",
+    "main.d48b6c35.css.map": "/portfolio_v2/static/css/main.d48b6c35.css.map",
+    "main.dfb43d8e.js.map": "/portfolio_v2/static/js/main.dfb43d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48b6c35.css",
+    "static/js/main.dfb43d8e.js"
+  ]
+}
